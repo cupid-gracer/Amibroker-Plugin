@@ -1,0 +1,51 @@
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Plugin.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Plugin.pdb
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Newtonsoft.Json.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\SuperSocket.ClientEngine.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\websocket-sharp.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\WebSocket4Net.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Newtonsoft.Json.xml
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\websocket-sharp.xml
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.csprojAssemblyReference.cache
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Controls\RightClickMenu.baml
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Controls\RightClickMenu.g.cs
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin_MarkupCompile.cache
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.g.resources
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.csproj.CoreCompileInputs.cache
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.csproj.CopyComplete
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.pdb
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Plugin.dll
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Plugin.pdb
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\SuperSocket.ClientEngine.dll
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\websocket-sharp.dll
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\WebSocket4Net.dll
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\websocket-sharp.xml
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.csprojAssemblyReference.cache
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Controls\RightClickMenu.baml
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Controls\RightClickMenu.g.cs
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin_MarkupCompile.cache
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.g.resources
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.csproj.CoreCompileInputs.cache
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.csproj.CopyComplete
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.dll
+D:\Dev_data\ambibroker\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.pdb
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Plugin.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Plugin.pdb
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Newtonsoft.Json.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\SuperSocket.ClientEngine.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\websocket-sharp.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\WebSocket4Net.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\Newtonsoft.Json.xml
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\bin\x64\Debug\websocket-sharp.xml
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Controls\RightClickMenu.baml
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Controls\RightClickMenu.g.cs
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin_MarkupCompile.cache
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.g.resources
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.csproj.CoreCompileInputs.cache
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.csproj.CopyComplete
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.dll
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.pdb
+E:\10_cryptocurrency\01_Amibroker\Binince-Data-Feed-Plugin-For-AmiBroker (2)\Binince-Data-Feed-Plugin-For-AmiBroker\Plugin\obj\x64\Debug\Plugin.csprojAssemblyReference.cache
